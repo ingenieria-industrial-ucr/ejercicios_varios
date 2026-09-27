@@ -12,11 +12,5 @@ Este repositorio contiene archivos de **Python** con las soluciones de los ejerc
 
 ---
 
-## 👤 Autor
-
-**Tu Nombre**
-- Mauricio Zamora
-
+## 👤 Mauricio Zamora
 ---
-
-⭐ Si te resultó útil, ¡dale una estrella!
